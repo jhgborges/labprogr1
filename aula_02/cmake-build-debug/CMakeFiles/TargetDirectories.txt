@@ -1,0 +1,3 @@
+/home/jhgb/CLionProjects/labprogr1/aula_02/cmake-build-debug/CMakeFiles/aula_02.dir
+/home/jhgb/CLionProjects/labprogr1/aula_02/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jhgb/CLionProjects/labprogr1/aula_02/cmake-build-debug/CMakeFiles/rebuild_cache.dir
